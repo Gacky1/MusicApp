@@ -52,21 +52,33 @@ const songDataBase = [
   },
   {
     songSrc: "./music/iktara.mp3",
-    title: "Maulaya Salli",
+    title: "Iktara",
     artist: "Amitabh Bhattacharya",
-    imgSrc: "./img/music6.jpg",
+    imgSrc: "./img/iktara.jpg",
   },
   {
-    songSrc: "./music/music7.mp3",
-    title: "Lakhon Salam",
-    artist: "Atif Aslam",
-    imgSrc: "./img/music7.jpg",
+    songSrc: "./music/TeraMeraRishta.mp3",
+    title: "Tera Mera Rishta",
+    artist: " MUSTAFA ZAHID",
+    imgSrc: "./img/teramerarishta.jpg",
   },
   {
-    songSrc: "./music/music8.mp3",
-    title: "Assalamu Alaika",
-    artist: "Maher zain",
-    imgSrc: "./img/music1.jpg",
+    songSrc: "./music/NadaanParinde.mp3",
+    title: "Nadaan Parinde",
+    artist: "A.R. Rahman",
+    imgSrc: "./img/np.jpg",
+  },
+  {
+    songSrc: "./music/TumSe.mp3",
+    title: "Tum Se",
+    artist: "Varun Jain",
+    imgSrc: "./img/tumse.jpg",
+  },
+  {
+    songSrc: "./music/CKP",
+    title: "Choli Ke Peeche",
+    artist: "Diljit Dosanjh",
+    imgSrc: "./img/CKP.jpg",
   },
 ];
 
