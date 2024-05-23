@@ -75,7 +75,7 @@ const songDataBase = [
     imgSrc: "./img/tumse.jpg",
   },
   {
-    songSrc: "./music/CKP",
+    songSrc: "./music/CKP.mp3",
     title: "Choli Ke Peeche",
     artist: "Diljit Dosanjh",
     imgSrc: "./img/CKP.jpg",
